@@ -44,9 +44,6 @@
     background: transparent url('img/right_logo_img.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
-.navbarMenu {
-    justify-content: center !important;
-}
 /* .navbar>.py-3 {
     padding-top: 1rem!important;
     padding-bottom: 1rem!important;
@@ -55,5 +52,5 @@
     justify-content: center!important;
 }
 .navbar>.d-flex {
-    display: flex!important; */
-}
+    display: flex!important;
+} */
